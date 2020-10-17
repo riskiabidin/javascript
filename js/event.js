@@ -7,4 +7,5 @@ function setNama() {
     // bisa menggunakan cara lain:
     // var txtNama=document.getElementById('txtNama');
     // document.getElementById('namaLengkap').innerHTML=txtNama.value;
+    //start 18/10/2020
 }
